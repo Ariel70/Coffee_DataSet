@@ -1,9 +1,8 @@
 # Coffee_DataSet
 
-Project Title
 Brief project description goes here.
 
-Table of Contents
+##Table of Contents
 Introduction
 Project Structure
 Installation Instructions
