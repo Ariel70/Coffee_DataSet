@@ -1,7 +1,4 @@
 # Coffee_DataSet
-
-Brief project description goes here.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
