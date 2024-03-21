@@ -59,6 +59,5 @@ Outline the directory structure of the project, including main folders and their
 3. **Creating Descriptive Columns:** I used IF statements to convert codes into readable formats for columns like Coffee Type Name and Roast Type Name, facilitating better understanding and analysis.
 
 4. **Visualizing Overall Sales:** With the dataset now enriched with relevant information, I aggregated the data to visualize overall sales. This involved grouping the data by coffee type, roast type, or other relevant factors and calculating total sales amounts.
-   
-By following these steps, I ensured that the data was cleaned and prepared for analysis. The extracted and aggregated data allowed for meaningful visualization of overall sales patterns, enabling insights into consumer preferences and trends in coffee sales.
+
 
