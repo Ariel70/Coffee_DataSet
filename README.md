@@ -9,13 +9,6 @@ Brief project description goes here.
 5. [Methodology](#methodology)
 6. [Results](#results)
 7. [Discussion](#discussion)
-8. [Usage](#usage)
-9. [Troubleshooting](#troubleshooting)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact Information](#contact-information)
-13. [References](#references)
-14. [Acknowledgements](#acknowledgements)
 15. [Conclusion](#conclusion)
 
 ## Introduction
