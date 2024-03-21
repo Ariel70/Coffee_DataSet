@@ -28,7 +28,7 @@ This analysis provided valuable insights for coffee businesses to understand the
 ## Project Structure
 Outline the directory structure of the project, including main folders and their contents. This helps users navigate through the project easily.
 
-## Data Decription
+## Data Description
 1. **Order ID:** Unique identifier for each order.
    - **Significance:** Helps track individual orders and identify patterns in purchasing behavior.
 
