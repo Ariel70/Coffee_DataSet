@@ -77,7 +77,6 @@ Outline the directory structure of the project, including main folders and their
     - **Significance:** Helps analyze the impact of loyalty programs on sales and customer retention.
 
 ## Methodology
-## Methodology
 
 ### Data Cleaning:
 
