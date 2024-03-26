@@ -57,7 +57,7 @@ This analysis provided valuable insights for coffee businesses to understand the
 
 ## Results
 
-![Capture](https://github.com/Ariel70/Coffee_DataSet/assets/60137528/3b85d911-82c6-4a2a-a785-9e021ff676a3)
+![image](https://github.com/Ariel70/Coffee_DataSet/assets/60137528/d4effdc1-d2aa-4853-8ed8-f49a33c5aa1c)
 
 # Sales Analysis
 In this section, we analyze the aggregated sales data derived from the line chart, focusing primarily on coffee sales. The analysis includes visualizations and key performance indicators (KPIs).
