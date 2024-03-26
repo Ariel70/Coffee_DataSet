@@ -96,7 +96,7 @@ The bar graph differentiates the sum of sales by country and roast type (Dark, L
 - Reflects moderate sales for Dark roast, approaching 4,000, and very limited sales for Medium and Light roasts.
 
 ## Key Performance Indicators
-Two KPIs provide additional insights:
+### Two KPIs provide additional insights:
 
 ### Sum of Quantity
 - The quantity stands at 3551 units, though the specific parameters of this measurement remain unclear.
