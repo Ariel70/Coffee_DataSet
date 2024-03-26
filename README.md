@@ -90,7 +90,7 @@ The bar graph differentiates the sum of sales by country and roast type (Dark, L
 - Leads with the highest sales across all roast types, with Dark roast approaching 14,000, Medium roast around 8,000, and Light roast near 2,000.
 
 ### Ireland
-- Significantly lower sales, favoring Medium roast with sales just over 2,000, followed by Dark roast at about 1,000, and negligible sales for Light roast.
+- Significantly lower sales, favoring Medium roast with sales of just over 2,000, followed by Dark roast at about 1,000, and negligible sales for Light roast.
 
 ### United Kingdom
 - Reflects moderate sales for Dark roast, approaching 4,000, and very limited sales for Medium and Light roasts.
@@ -103,3 +103,49 @@ The bar graph differentiates the sum of sales by country and roast type (Dark, L
 
 ### Average of Sales
 - The average sales value is 45.13, a metric that averages sales data across the dataset but lacks detailed denomination.
+
+## Discussion
+
+## Visualizations Overview
+The visual data presents two key visualizations: a line graph detailing sales by coffee type over time and a bar chart that differentiates sales by country and roast type.
+
+### Trends in Coffee Sales by Variety
+The line graph reveals distinct patterns for Arabica, Excelsa, Liberica, and Robusta:
+
+- **Arabica:** Notable is the peak in 2020, possibly due to a marketing push or a change in consumer lifestyle. The subsequent decline might indicate market saturation. As Arabica aligns closely with our core business objectives, understanding these shifts is critical for strategic planning.
+
+- **Excelsa:** The gentle decline suggests a stable niche market. This could be an opportunity to develop targeted marketing strategies to engage and expand this loyal customer base.
+
+- **Liberica:** The consistent decrease may be due to shifting consumer preferences, highlighting a need for product innovation or diversification strategies.
+
+- **Robusta:** The volatility observed warrants a deeper look into supply chain management and pricing strategies to stabilize sales.
+
+### Regional Preferences in Coffee Sales
+The bar chart highlights the dominance of the US market, particularly in dark roast sales, implying a strong consumer preference for bolder flavours. This suggests that the US market could be leveraged further with campaigns emphasizing the unique characteristics of dark roast.
+
+In Ireland, the preference for light roast presents an opportunity to investigate market positioning and accessibility, potentially increasing sales through tailored marketing efforts.
+
+The UK's market shows potential for growth in the dark and medium roast segments. Identifying barriers to higher sales in these areas could inform targeted growth strategies.
+
+### Comparative Analysis
+Sales performance across regions shows that cultural preferences significantly influence coffee sales. Understanding these nuances is essential for effective product placement and marketing campaigns. A year-on-year analysis of each coffee type could inform supply chain adjustments and promotional strategies.
+
+## Context for Visualizations
+To aid understanding, visualizations should include concise captions:
+
+- **Line Graph:** "Consumer Trends Reflected in Coffee Sales Variability (2019-2022)"
+- **Bar Chart:** "Analyzing Regional Market Strengths in Roast Preferences"
+
+## Addressing Potential Limitations and Recommendations
+While insightful, the current analysis does not consider external factors such as economic conditions or global events which could have impacted sales trends. Further, the dataset's limited scope in terms of countries may restrict the completeness of the market picture. Integrating market research could address some speculative aspects of consumer behaviour and preferences. Given the relatively short four-year span, establishing long-term trends remains challenging.
+
+To counter these limitations, it is recommended to:
+
+- Conduct consumer surveys or qualitative research to validate the reasoning behind fluctuating sales.
+- Broaden the dataset to include more countries for a comprehensive global analysis.
+- Use secondary data to understand the impact of external factors on sales.
+
+## Conclusion
+Overall, the data highlights both stability in niche markets and volatility that requires action. The US market's predilection for dark roast and regional tastes in Ireland and the UK underscore the need for region-specific strategies. Implementing the above recommendations will enhance future analyses, thus better informing the business strategy and potentially improving market positioning and product offerings.
+
+
