@@ -55,4 +55,5 @@ This analysis provided valuable insights for coffee businesses to understand the
 
 4. **Visualizing Overall Sales:** With the dataset now enriched with relevant information, I aggregated the data to visualize overall sales. This involved grouping the data by coffee type, roast type, or other relevant factors and calculating total sales amounts.
 
+![Capture](https://github.com/Ariel70/Coffee_DataSet/assets/60137528/3b85d911-82c6-4a2a-a785-9e021ff676a3)
 
