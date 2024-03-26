@@ -55,5 +55,51 @@ This analysis provided valuable insights for coffee businesses to understand the
 
 4. **Visualizing Overall Sales:** With the dataset now enriched with relevant information, I aggregated the data to visualize overall sales. This involved grouping the data by coffee type, roast type, or other relevant factors and calculating total sales amounts.
 
+## Results
+
 ![Capture](https://github.com/Ariel70/Coffee_DataSet/assets/60137528/3b85d911-82c6-4a2a-a785-9e021ff676a3)
 
+# Sales Analysis
+In this section, we analyze the aggregated sales data derived from the line chart, focusing primarily on coffee sales. The analysis includes visualizations and key performance indicators (KPIs).
+
+## Sum of Sales by Year and Coffee Type
+The line chart displays the annual sum of sales for four types of coffee: Arabica, Excelsa, Liberica, and Robusta, spanning from 2019 to 2022. 
+
+### Arabica
+- Sales started at approximately 3,500 in 2019, peaked at around 4,000 in 2020, decreased to roughly 3,500 in 2021, and ended near 3,000 in 2022. 
+- Total sum of Arabica sales over the four years: approximately 14,000.
+
+### Excelsa
+- Showed a consistent increase from just under 2,500 in 2019 to about 3,000 in 2021, before plummeting to around 1,500 in 2022. 
+- Cumulative sum of Excelsa sales: approximately 10,000.
+
+### Liberica
+- Presented lower figures, starting near 2,500 in 2019 and descending to approximately 1,500 by 2022. 
+- Total sum for Liberica: around 8,500.
+
+### Robusta
+- Displayed the highest volatility, soaring to nearly 4,500 in 2020 from about 2,500 in 2019, then falling to approximately 3,000 in 2021, and sharply declining to just over 1,000 in 2022. 
+- Total sum of Robusta sales: roughly 11,000.
+
+The aggregated sum of sales for all coffee types from 2019 to 2022 is approximately 43,500.
+
+## Sum of Sales by Country and Roast Type Name
+The bar graph differentiates the sum of sales by country and roast type (Dark, Light, and Medium).
+
+### United States
+- Leads with the highest sales across all roast types, with Dark roast approaching 14,000, Medium roast around 8,000, and Light roast near 2,000.
+
+### Ireland
+- Significantly lower sales, favoring Medium roast with sales just over 2,000, followed by Dark roast at about 1,000, and negligible sales for Light roast.
+
+### United Kingdom
+- Reflects moderate sales for Dark roast, approaching 4,000, and very limited sales for Medium and Light roasts.
+
+## Key Performance Indicators
+Two KPIs provide additional insights:
+
+### Sum of Quantity
+- The quantity stands at 3551 units, though the specific parameters of this measurement remain unclear.
+
+### Average of Sales
+- The average sales value is 45.13, a metric that averages sales data across the dataset but lacks detailed denomination.
